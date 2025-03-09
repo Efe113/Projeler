@@ -13,7 +13,8 @@ Web geliştirme, açık kaynak projelerle ilgileniyorum.
    - **Kullanılan Diller & Teknolojiler:**  
      - HTML5  
      - CSS3  
-     - JavaScript  
+     - VITE
+     - JAVASCRİPT  
 
 2. **📦 Diğer Projeler**  
    - Şu anda geliştirme aşamasında olan farklı kategorilerde (web uygulamaları) projelerim bulunuyor.  
