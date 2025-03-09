@@ -8,7 +8,7 @@ Web geliştirme, açık kaynak projelerle ilgileniyorum.
 
 ### 🔨 Üzerinde Çalışılan Projeler  
 
-1. **🐍 Yılan Oyunu (Snake Game)**  
+1. **🐍 Yılan Oyunu (Snake Game) [✅ YAYIMLANDI]**  
    - **Açıklama:** Klasik yılan oyununu modern tarayıcılar için yeniden geliştiriyorum. Mobil ve masaüstü uyumlu, hızlı ve eğlenceli bir deneyim sunacak.  
    - **Kullanılan Diller & Teknolojiler:**  
      - HTML5  
