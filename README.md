@@ -19,7 +19,9 @@ Web geliştirme, açık kaynak projelerle ilgileniyorum.
    - Şu anda geliştirme aşamasında olan farklı kategorilerde (web uygulamaları) projelerim bulunuyor.  
    - Tamamlandıkça **GitHub** üzerinden açık kaynak olarak paylaşılacaktır.  
 
-> **⚙️ Not:** Projelerimiz çok yakında paylaşılacaktır. Takipte kalın! 🚀  
+> **⚙️ Not:** Projelerimiz çok yakında paylaşılacaktır. Takipte kalın! 🚀
+
+> **⚙️ Bilgi: Projelerimiz Bu Metnin Solunda Bulunan *Releases* Bölümünden Bakabilirsiniz.**  
 
 ---
 
